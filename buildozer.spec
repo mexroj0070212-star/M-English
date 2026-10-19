@@ -10,7 +10,8 @@ orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
 android.accept_sdk_license = True
-android.ndk = 25b
+android.archs = arm64-v8a
+android.ndk_version = 25b
 
 [buildozer]
 log_level = 2
